@@ -9,9 +9,18 @@ XMLtoXLSX is a powerful tool that allows users to seamlessly convert XML tables 
 
 ## Installation
 Install these below packages 
+#### Pandas
+```bash
 pip install pandas
+```
+#### StringIO
+```bash
 pip install StringIO
+```
+#### xlsxwriter
+```bash
 pip install xlsxwriter
+```
 
 ### Prerequisites
 
