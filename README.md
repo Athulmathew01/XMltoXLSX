@@ -13,10 +13,7 @@ Install these below packages
 ```bash
 pip install pandas
 ```
-#### StringIO
-```bash
-pip install StringIO
-```
+
 #### xlsxwriter
 ```bash
 pip install xlsxwriter
